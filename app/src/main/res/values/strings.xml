@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">E-Bike Buddy</string>
+    <string name="app_logo">App Logo</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="app_description">Description:This app uses Gemini AI technology for Electric Bike Error Code problems and gives instruction for its trouble shooting.</string>
+    <string name="button_text">Click here to load the Error Code.</string>
+    <string name="app_title">E-Bike Buddy</string>
+    <string name="onBoarding_title">Turn confusion into confidence on the road.</string>
+    <string name="app_function_explained">(AI Powered E-Bike Buddy)</string>
+    <string name="gemini_string"><u><b><i>Powered by : Gemini</i></b></u></string>
+    <string name="add_bike_button">Add Your Bike</string>
+    <string name="skip_now_button">Skip For Now</string>
+    <string name="add_bike_title">Add Your Bike</string>
+    <string name="card_ai_description"> Confused by error codes? Enter them &amp; Gemini AI will diagnose your bike in seconds, giving you clear solutions fast.</string>
+    <string name="ai_description">
+    Struggling to decipher cryptic bike error codes? Don\'t sweat it! This app uses powerful Gemini AI technology to diagnose your bike\'s problems quickly and easily. Simply input your error code, and our intelligent system will analyze it alongside a vast database of information. In seconds, you\'ll receive clear explanations and troubleshooting steps tailored to your specific issue.
+</string>
+    <string name="no_internet">No Internet Connection.</string>
+
+
+</resources>

@@ -1,0 +1,71 @@
+[
+  {
+    "errorCode": "E21",
+    "description": "The motor current output has exceeded the controller's current limit, causing the controller to shut down to protect against overheating. This usually happens during long periods of climbing with maximum pedal assist turned on. To clear the error, stop riding and power off the bike. Let the bike cool down for 2 minutes to see if the error code disappears upon reboot. The motor or controller could be damaged, such as from a worn cable or poor connection, either part may need to be replaced. If the error code persists, ensure there is no damage or loose connections with the motor or the controller.",
+    "possibleCauses": ["Motor damage", "Controller damage", "Worn cable", "Poor connection"],
+    "solutions": ["Cool down bike", "Check connections", "Replace motor/controller"]
+  },
+  {
+    "errorCode": "E22",
+    "description": "The throttle cable or throttle hall sensor may be damaged. When you press and release the throttle, it should return to the original position. Remove any obstructions. Check the throttle and throttle cable for damage, such as a cut or frayed cable. If this fails to resolve the error code, replace the throttle assembly.",
+
+    "possibleCauses": ["Throttle cable damage", "Throttle hall sensor damage"],
+    "solutions": ["Check throttle cable", "Replace throttle assembly"]
+  },
+  {
+    "errorCode": "E23",
+    "description": "At least one of the three motor phases is damaged, or the controller is damaged and caused unusual voltage. Check the cable that connects the rear hub motor to the rest of the controller, and make sure it is firmly connected and free from grit or contaminants. This error might appear if you don't reconnect the motor cable after removing the rear wheel (for example, after changing a flat tire.) At least one of the motor phase wires has been damaged or  disconnected. If checking the connection doesn't resolve the error, first replace the motor; and replace the controller if a new motor doesn't solve the issue.",
+    "possibleCauses": ["Motor phase damage", "Controller damage", "Cable damage"],
+    "solutions": ["Check motor cable connection", "Replace motor", "Replace controller"]
+  },
+  {
+    "errorCode": "E24",
+    "description": "The motor cable is not properly connected or the hall sensor (inside the motor) may be damaged. To resolve this, power off the bike, disconnect the rear hub motor connection, ensure it is clean, and then reconnect the connection fully. Power the bike on to clear the error code. If the error persists, the rear wheel/hub motor may need to be replaced.",
+    "possibleCauses": ["Motor cable connection", "Hall sensor damage"],
+    "solutions": ["Check motor cable connection", "Replace motor"]
+  },
+  {
+    "errorCode": "E25",
+    "description": "This error is a brake sensor error regarding the motor cutoff sensors that are built into the brake levers. An E25 can be triggered if the brakes are held down while the bike is powered on. If the E25 error persists, this can generally be corrected by adjusting the sensitivity of the brake sensors.",
+    "possibleCauses": ["Brake sensor issue"],
+    "solutions": ["Adjust brake sensor sensitivity"]
+  },
+  {
+    "errorCode": "E26",
+    "description": "The controller or motor has overheated from extended periods of extremely heavy use (for example, climbing a steep hill with maximum pedal assist applied), and has shut down to prevent damage. This occurs when the controller reaches 105 degrees Celsius. The bike may be getting pushed to its limits, causing the controller to become too hot. In some situations, removing extra weight from the bike and pedaling in a low gear/ PAS mode for long steep hills can prevent the bike from overheating. If the error code appears without engaging in strenuous cycling activities, a new controller may be needed.",
+    "possibleCauses": ["Overheating controller", "Overheating motor"],
+    "solutions": ["Cool down bike", "Reduce load", "Replace controller"]
+  },
+  {
+    "errorCode": "E27",
+    "description": "This error can appear if the hub motor encounters resistance (for example, if an obstacle is preventing the wheel from spinning but there is still power being applied to the rear hub motor). In order to clear the error, remove the bike from the obstacle, power off, and power on again to resume riding.",
+    "possibleCauses": ["Motor obstruction"],
+    "solutions": ["Remove obstruction"]
+  },
+  {
+    "errorCode": "E28",
+    "description": "The voltage supplied by the battery is too low to operate the bike. Charge the battery fully and try again. If the issue persists, the voltage output can be measured by an Aventon Dealer Bike Shop. If a fully charged battery does not output the correct voltage on the volt meter, the battery may need to be replaced.",
+    "possibleCauses": ["Low battery voltage"],
+    "solutions": ["Charge battery", "Replace battery"]
+  },
+  {
+    "errorCode": "E29",
+    "description": "This error means that the battery may be supplying too much voltage to the controller. Make sure you are using the correct battery and charger for your bike. For example, the 48V Pace 500 battery cannot be used to power the 36V Pace 350 ebike, even though they look similar.",
+
+    "possibleCauses": ["Incorrect battery", "Battery issue"],
+    "solutions": ["Use correct battery", "Check battery"]
+  },
+  {
+    "errorCode": "E30/31",
+    "description": "The controller has no signal output to the display or a poor connection exists between the controller and the display. Check all cable connections between the controller and the display and that the cables/ connectors are undamaged and not contaminated with grit. If this does not resolve the issue, one of the following parts may need to be replaced until the error resolves: display, controller, and wiring harness.",
+    "possibleCauses": ["Communication error", "Cable damage"],
+    "solutions": ["Check connections", "Replace display/controller/wiring harness"]
+  },
+  {
+    "errorCode": "E38",
+    "description": "The battery is not supplying the required voltage to power the display and motor. This error could also appear if you install the wrong battery on your bike. To remedy this issue, confirm that all of the cables are properly connected and that the proper battery and charger are in use. Use the display to view the real-time voltage being output from the battery to confirm it is correct. It can also be checked by an Aventon Dealer at the battery terminals using a volt meter. If the battery is old and has been charged/discharged many times, it may need to be replaced.  ",
+
+    "possibleCauses": ["Low battery voltage", "Incorrect battery", "Battery damage"],
+    "solutions": ["Check connections", "Use correct battery", "Replace battery"]
+  }
+]
