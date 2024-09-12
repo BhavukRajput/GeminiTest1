@@ -4,7 +4,7 @@ This project was developed for the Google Gemini API Developer Competition and l
 
 ## Demo Video
 
-[Watch the app video on YouTube]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/kCFEu5Q-IEY?si=djX8zRy3ejCUjMd8))
+[Watch the app video on YouTube]-(https://youtu.be/kCFEu5Q-IEY?si=djX8zRy3ejCUjMd8)
 
 Features
 1-Error Code Identification: Users can input the error code from their electric bike, and the app will identify the issue.
