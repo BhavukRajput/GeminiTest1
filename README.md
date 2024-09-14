@@ -42,4 +42,4 @@ This version reflects the use of Kotlin and Jetpack Compose as the primary techn
 
 Need a custom AI-powered app?
 If you'd like a custom AI app or a similar solution, feel free to contact me on Fiverr.
-Fiver link [https://www.fiverr.com/users/bhavuk_rajput]
+Fiver link [(https://www.fiverr.com/bhavuk_rajput?public_mode=true)]
